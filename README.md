@@ -36,7 +36,7 @@ docker run \
 mydogboris/hbase:1.2.4
 ```
 
-Open (http://localhost:60010)[http://localhost:60010] for the Admin GUI.
+Open [http://localhost:60010] for the Admin GUI.
 
 Zookeeper is at port 2181.
 
@@ -57,7 +57,7 @@ In container:
 hbase-daemon.sh start rest
 ```
 
-Open (http://localhost:8080)[http://localhost:8080] to see a list of tables.
+Open [http://localhost:8080] to see a list of tables.
 
 
 ## Version strings
