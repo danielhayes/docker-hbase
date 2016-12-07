@@ -2,7 +2,7 @@
 
 ## Background
 
-Simple Docker .
+Simple Docker container for HBase with embedded zookeeper. Suitable for development work. Starts as pseudo-distributed. 
 
 ## Building from sources
 
